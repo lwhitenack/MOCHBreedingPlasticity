@@ -47,7 +47,7 @@ Contact Lauren Whitenack at lauren.whitenack@gmail.com with questions
 		CV - coefficient of variation in nestling mass ((standard deviation÷mean)×100) 
 		year - duplicate of YEAR, to match column names with snotel_data
 
-# Data file: snotel_data.csv
+# Data file: snotel_data_2023.csv
 	Summary: Daily weather data downloaded from USDA SNOTEL stations (https://wcc.sc.egov.usda.gov/nwcc/). High elevation 
 	data come from SNOTEL Site 541 and low elevation data come from taking the average of SNOTEL Sites 539 and 540. Both the
 	raw data for Sites 539 and 540 and the averaged data for low elevation are included in this data file.
